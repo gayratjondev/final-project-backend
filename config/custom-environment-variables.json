@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "jwtPrivateKey",
-  "db": "jwtPrivateKey"
+  "db": "db"
 }
